@@ -1,9 +1,31 @@
 #front {
-  /*background-image:url("../../assets/img/vvv.jpg");*/
-  background-color: black;
+  background-image:url("../../assets/img/hh.jpg");
+/*  background-color: black;*/
   width:100$;
   height:100vh;
 }
+
+#track {
+  background-image:url("../../assets/img/tt.jpg");
+  /*background-color: black;*/
+  width:100$;
+  height:100vh;
+}
+
+#contact {
+  background-image:url("../../assets/img/cc.jpg");
+  /*background-color: black;*/
+  width:100$;
+  height:100vh;
+}
+
+#about {
+  background-image:url("../../assets/img/aa.jpg");
+  /*background-color: black;*/
+  width:100$;
+  height:100vh;
+}
+
 
 .h1, h1 {
   
